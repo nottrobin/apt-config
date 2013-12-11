@@ -1,0 +1,9 @@
+git
+ruby-dev
+python-setuptools
+python-pip
+python3-pip
+tmux
+vim
+sublime-text-installer
+
